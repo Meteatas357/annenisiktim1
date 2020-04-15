@@ -1,0 +1,20 @@
+{
+    "form": [
+        {
+            "title" : "Feelings",
+            "msg" : "Choose a role which best fits your personality",
+            "roles" : [
+                {"id" : "694982354183127080", "emoji" : "😔", "displayText" : "Sad"}
+            ]
+        },
+        {
+            "title" : "Nice",
+            "msg" : "Choose a role which best fits your personality",
+            "roles" : [
+                {"id" : "692406690896805918", "emoji" : "😉", "displayText" : "Nice"}
+            ]
+        }
+    ],
+    "welcome" : "Hello Doood",
+    "bye" : "Bye Dood" 
+}
